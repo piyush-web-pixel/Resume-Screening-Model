@@ -5,3 +5,4 @@ numpy
 joblib
 nltk
 PyPDF2
+python-docx
